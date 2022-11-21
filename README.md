@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I'm currently working on Signa<br>🌱 I'm currently learning Vue.js<br>
+⚡Doing my best everyday to make the word "impossible" an array of char's<br>🔭 I'm currently working on Signa<br>🌱 I'm currently learning Vue.js<br>
 
 
 ## 🌐 Socials:
