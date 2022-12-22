@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joaoarebalo&icon=3&color=12)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/AryKenned/AryKenned/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
